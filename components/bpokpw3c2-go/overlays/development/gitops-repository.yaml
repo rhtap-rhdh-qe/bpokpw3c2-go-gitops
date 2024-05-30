@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bpokpw3c2-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bpokpw3c2-go-gitops
